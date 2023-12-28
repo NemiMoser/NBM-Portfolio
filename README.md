@@ -19,7 +19,7 @@ In order to deploy the application, you'll need to open the application in your 
 To use the application, links to my previous projects and challenges are available in the portfolio section. You can send me a message directly using the contact form or you can also click on the direct links to my GitHub and LinkedIn profiles.
 
 ## Contribution Guidelines
-This project was created in order to complete a challenge illustrating the use of HTML, JavaScript, CSS, and Netlify.
+This project was created in order to complete a challenge illustrating the use of HTML, JavaScript, CSS, and Netlify. References to module 20 were used in order to create this application.
 
 ## License
 This project is licensed under the MIT License.
