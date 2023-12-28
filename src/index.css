@@ -1,0 +1,40 @@
+body, html {
+  background-color: #ebe5dc;
+  color: #24221e;
+  font-family: 'Montserrat', sans-serif;
+}
+
+nav {
+  background-color: #868365;
+}
+
+#contactForm {
+  padding-left: 25px;
+}
+
+img {
+  border-radius: 15px;
+}
+
+footer {
+  text-align: center;
+  font-size: 10px;
+}
+
+strong {
+  font-weight: bold;
+  color: #868365;
+}
+
+#aboutMe,
+#portfolioSection,
+#contactMe,
+#resumeSection {
+  padding: 25px;
+}
+
+#portfolioSection a {
+  text-align: center;
+  display: block;
+  margin-bottom: 5px;
+}

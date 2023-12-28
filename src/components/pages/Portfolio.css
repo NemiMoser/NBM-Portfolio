@@ -1,0 +1,91 @@
+.weatherDashboard,
+.whatsCoding,
+.codingQuiz,
+.passwordGenerator,
+.noSQL,
+.eCommerce {
+    padding: 20px;
+}
+
+/* Initially hide the links */
+.weatherDashboard a,
+.whatsCoding a,
+.codingQuiz a,
+.passwordGenerator a,
+.noSQL a,
+.eCommerce a {
+  display: none;
+}
+
+/* Show links on image hover */
+.weatherDashboard:hover a,
+.whatsCoding:hover a,
+.codingQuiz:hover a,
+.passwordGenerator:hover a,
+.noSQL:hover a,
+.eCommerce:hover a {
+  display: block;
+  position: absolute;
+  bottom: 0;
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 5px;
+  width: 50%;
+  text-align: center;
+}
+
+.image-container a {
+    display: none;
+    position: absolute;
+    bottom: 0;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 5px;
+    width: 50%;
+    text-align: center;
+  }
+.image-container:hover a {
+    display: block;
+  }
+
+  /* Portfolio.css */
+
+/* Initially hide the links */
+.project-item .links a {
+    display: none;
+    position: absolute;
+    bottom: 0;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 5px;
+    width: 50%;
+    text-align: center;
+  }
+  
+  /* Show links on image hover */
+  .project-item:hover .links a {
+    display: block;
+  }
+  
+/* Style for the icons */
+.project-item .links .github-link,
+.project-item .links .deployed-site-link {
+  position: absolute;
+  bottom: 0;
+  left: 50%; /* Adjust the positioning */
+  transform: translateX(-50%);
+  display: flex;
+  align-items: center;
+}
+
+/* Style for the icons */
+.project-item .links .github-link a svg,
+.project-item .links .deployed-site-link a svg {
+  margin: 0 5px; /* Adjust icon spacing */
+  font-size: 20px; /* Adjust icon size */
+}
+
+.deployed-site-link {
+    text-align: left;
+}
+
+form {
+  padding-left: 25px;
+}
