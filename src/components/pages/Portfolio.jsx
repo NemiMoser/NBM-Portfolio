@@ -1,11 +1,11 @@
 import React from 'react';
-import { FaGithub, FaExternalLinkAlt } from 'react-icons/fa';
-import weatherImage from '/Users/nemibmo/Desktop/Portfolio/NBM-Portfolio/src/assets/weatherDashboard.jpg';
-import wcImage from '/Users/nemibmo/Desktop/Portfolio/NBM-Portfolio/src/assets/whatsCoding.jpg';
-import quizImage from '/Users/nemibmo/Desktop/Portfolio/NBM-Portfolio/src/assets/codingQuiz.jpg';
-import pwdImage from '/Users/nemibmo/Desktop/Portfolio/NBM-Portfolio/src/assets/pwdGenerator.jpg';
-import nsqlImage from '/Users/nemibmo/Desktop/Portfolio/NBM-Portfolio/src/assets/noSQLVid.jpg';
-import ecomImage from '/Users/nemibmo/Desktop/Portfolio/NBM-Portfolio/src/assets/eCommerceVid.jpg';
+import { FaGithub } from 'react-icons/fa';
+import weatherImage from './assets/weatherDashboard.jpg';
+import wcImage from './assets/whatsCoding.jpg';
+import quizImage from './assets/codingQuiz.jpg';
+import pwdImage from './assets/pwdGenerator.jpg';
+import nsqlImage from './assets/noSQLVid.jpg';
+import ecomImage from './assets/eCommerceVid.jpg';
 import './Portfolio.css';
 
 export default function Portfolio() {
