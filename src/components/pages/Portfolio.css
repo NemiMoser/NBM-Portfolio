@@ -3,7 +3,7 @@
 .codingQuiz,
 .passwordGenerator,
 .noSQL,
-.eCommerce {
+.cCabinet {
     padding: 20px;
 }
 
@@ -13,7 +13,7 @@
 .codingQuiz a,
 .passwordGenerator a,
 .noSQL a,
-.eCommerce a {
+.cCabinet a {
   display: none;
 }
 
@@ -23,7 +23,7 @@
 .codingQuiz:hover a,
 .passwordGenerator:hover a,
 .noSQL:hover a,
-.eCommerce:hover a {
+.cCabinet:hover a {
   display: block;
   position: absolute;
   bottom: 0;
